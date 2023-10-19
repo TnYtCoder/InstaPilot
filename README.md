@@ -15,7 +15,12 @@ Made With Instagrapi ❤️
 
 I've attempted to add many features to it, but due to exams, I am currently unable to do so. However, once my exams are over, I will continue adding more features. In the meantime, please enjoy the existing features.
 
+![img](https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif)
+
 ## Warning ⚠️
+
+![img2](https://media.tenor.com/omADx0vwznsAAAAC/warning.gif)
+
 ```
 InstaPilot is a tool created for educational and research purposes. While we encourage responsible and ethical use of this tool, we want to emphasize that its misuse or abuse can have consequences.
 
