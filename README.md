@@ -110,6 +110,7 @@ It Will Automatically Install All The Requirements 👻
 
 <a href="https://instagram.com/tnytcoder?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://bit.ly/TnYtCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+[![  - Join Now](https://img.shields.io/badge/_-Join_Now-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/zWHxMa32)
 
 ## Star This Repository ⭐
 If you appreciate our efforts and the hard work we've put into this project, your star means the world to us.
