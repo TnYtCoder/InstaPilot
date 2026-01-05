@@ -106,19 +106,6 @@ It Will Automatically Install All The Requirements 👻
 | NetHunter | Yes |
 | Others | Not Yet |
 
-## Support
-If you've found our work valuable and would like to support its ongoing development and maintenance, your contribution is greatly appreciated. Your support helps us continue improving and adding new features.
-
-<p align="center">
-<img href="support"src="https://github.com/TnYtCoder/InstaFans/assets/115485810/2cea8bf1-a9ad-4535-a24d-92ec2d926de6" height="50%" width="50%">
-<b>cfmer.22610002142001@icici</b>
-</p>
-
-## Connect With Me On -
-
-<a href="https://instagram.com/tnytcoder?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://bit.ly/TnYtCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-[![  - Join Now](https://img.shields.io/badge/_-Join_Now-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/zWHxMa32)
 
 ## Star This Repository ⭐
 If you appreciate our efforts and the hard work we've put into this project, your star means the world to us.
